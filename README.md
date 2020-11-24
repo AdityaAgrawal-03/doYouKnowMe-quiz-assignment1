@@ -6,4 +6,4 @@
 
 #### Here is the snapshot of the quiz 👇
 
-![Quiz Snapshot](C:\Users\Aditya\Pictures\Screenshots)
+![Quiz Snapshot](https://github.com/AdityaAgrawal-03/doYouKnowMe-quiz-assignment1/blob/main/images/Snap.png)
